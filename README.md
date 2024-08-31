@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Owais - Software Engineer <br> <img align='right' src='https://programming-gifs.cyclic.app/' width=400 height=300 alt='samadpls/Programming-Gifs'></h1>
+<h1 align="center"> Hi, I'm Owais - Full Stack Software Engineer</h1>
 
 ></a>
 
